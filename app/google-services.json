@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "304797664859",
+    "firebase_url": "https://bikerent.firebaseio.com",
+    "project_id": "bikerent",
+    "storage_bucket": "bikerent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304797664859:android:3efa15a1f94469c9",
+        "android_client_info": {
+          "package_name": "com.example.karan.bikerent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304797664859-tcscm6903lcdk8umhpfrjn4pnlq4mhih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.karan.bikerent",
+            "certificate_hash": "ee94d3277ba68c217b75716495f51569432ce430"
+          }
+        },
+        {
+          "client_id": "304797664859-qvkbqsts4occmlcgj2bnqd0r1q23b0ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD039wZr4T7tGibO17u5nK4O94TZ7PU3lk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304797664859-qvkbqsts4occmlcgj2bnqd0r1q23b0ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
